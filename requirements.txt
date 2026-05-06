@@ -1,0 +1,9 @@
+django
+django-cors-headers
+groq
+faiss-cpu
+sentence-transformers
+numpy
+gunicorn
+scikit-learn
+requests
